@@ -1,0 +1,8 @@
+{
+  "name": "CustomUrlSchemePoc",
+  "app_id": "797ac53b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
